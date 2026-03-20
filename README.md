@@ -11,10 +11,10 @@ Sou estudante de Ciências da Computação, tenho interesse em:
 - Sistemas operacionais
   
 ## Tecnologias 💻
-- Java (intermediario)
-- Javascript (em aprendizado)
-- Python
-- Linux (deb & fedora based) 🐧
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - Git & Github
 
 ## Projetos em destaque🔨
