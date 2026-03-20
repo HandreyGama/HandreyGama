@@ -1,6 +1,7 @@
-## 👋 Olá, sou Handrey Filho!
+## 👋 Olá, sou ![Handrey](https://img.shields.io/badge/Handrey%20Filho-Developer-000000?style=for-the-badge&labelColor=6a0dad)
 
 ## Sobre mim 🧠
+
 ![Status](https://img.shields.io/badge/Status-Building%20cool%20stuff-0A66C2?style=for-the-badge)
 
 Sou estudante de Ciências da Computação, tenho interesse em:
