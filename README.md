@@ -1,4 +1,5 @@
-## 👋 Olá, sou ![Handrey](https://img.shields.io/badge/Handrey%20Filho-Developer-000000?style=for-the-badge&labelColor=6a0dad)
+## 👋 Olá, sou:
+  ![Handrey](https://img.shields.io/badge/Handrey%20Filho-Developer-000000?style=for-the-badge&labelColor=6a0dad)
 
 ## Sobre mim 🧠
 
