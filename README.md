@@ -27,7 +27,7 @@ Gosto de entender como as coisas funcionam - evitando abstrações
 ### Genesis 🌎 
 Um analisador de Exoplanetas baseado em um conjunto
 de dataset obtido pelo kaggle, para descobrir qual
-exoplaneta tem a maior provabilidade de vida.
+exoplaneta tem a maior probabilidade de vida.
   - Backend com Flask
   - Processamento de dados em python com pandas e np
   - Interface web com Javascript
@@ -40,19 +40,29 @@ Um app de gerenciamento financeiro para te ajudar
 a organizar Suas despesas e lucros, Contendo 
 gerador de graficos e sistema de login.
   - Backend em Java
-  - Frontend Com Javafx
-  - Ultilização com banco de dados SQLite3
+  - Frontend com Javafx
+  - Utilização com banco de dados SQLite3
     
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ### Portifólio 🌐
 Site pessoal consumindo API do GitHub  
-  - Backend com nodejs
+  - Backend com Nodejs
   - Deploy de aplicação com vercel
-  - Frontend com html e css
+  - Frontend com HTML e CSS
   - consumo de API do Github
-
+    
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+### PixelNet
+Site com tematica de simular um aplicativo de blog dos anos 2000
+Consumindo a api do JsonPlaceHolder
+  - Backend em javascript
+  - Frontend com HTML e CSS
+  - Consumo da api do JsonPlaceholder
+  - Ultilização de padrões de projetos 
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ## Minhas estatisticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HandreyGama)
