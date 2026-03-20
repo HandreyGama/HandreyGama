@@ -10,6 +10,7 @@ Sou estudante de Ciências da Computação, tenho interesse em:
 - Engenharia de Software
 - Automações
 - Sistemas operacionais
+  
 Gosto de entender como as coisas funcionam - evitando abstrações 
 ## Tecnologias 💻
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,linux,git)](https://skillicons.dev)
