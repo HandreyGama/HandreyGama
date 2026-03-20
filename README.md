@@ -29,7 +29,8 @@ exoplaneta tem a maior provabilidade de vida.
   - Backend com Flask
   - Processamento de dados em python com pandas e np
   - Interface web com Javascript
-  - integração de IA assistente com API    
+  - integração de IA assistente com API
+    
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 ### FinancePro 🏛️
@@ -50,6 +51,7 @@ Site pessoal consumindo API do GitHub
   - consumo de API do Github
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
 ## Minhas estatisticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HandreyGama)
 
