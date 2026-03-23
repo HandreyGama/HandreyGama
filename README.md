@@ -12,7 +12,11 @@ Sou estudante de Ciências da Computação, tenho interesse em:
 - Engenharia de Software
 - Automações
 - Sistemas operacionais
+
   
+### Quer saber mais sobre mim?
+- Acesse meu portifolio: ![portifolio](https://handreygamaportifolio.vercel.app/)
+
 Gosto de entender como as coisas funcionam em baixo nivel  
 ## Tecnologias 💻
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,linux,git)](https://skillicons.dev)
