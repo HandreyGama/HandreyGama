@@ -13,7 +13,7 @@ Sou estudante de Ciências da Computação, tenho interesse em:
 - Automações
 - Sistemas operacionais
   
-Gosto de entender como as coisas funcionam - evitando abstrações 
+Gosto de entender como as coisas funcionam em baixo nivel  
 ## Tecnologias 💻
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,linux,git)](https://skillicons.dev)
 
