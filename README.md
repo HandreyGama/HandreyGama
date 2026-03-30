@@ -25,6 +25,7 @@ Gosto de entender como as coisas funcionam em baixo nivel
 ![Flask](https://img.shields.io/badge/Flask%20-064F8C?style=for-the-badge&logo=flask)
 ![Nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-v17.0.10-52d3aa)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ## Projetos em destaque🔨
 
 
